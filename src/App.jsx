@@ -4,7 +4,7 @@ import { Routes } from 'react-router-dom'
 import HomePage from './pages/HomePage'
 import LoginPage from './Components/LoginPage'
 import RegisterPage from './Components/RegisterPage'
-import CreateExpense from './Components/createExpense'
+import CreateExpense from './Components/CreateExpense'
 
 function App() {
   return (
